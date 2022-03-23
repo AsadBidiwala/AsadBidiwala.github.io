@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Asad Bidiwala's Website
+description: Personal website that encompasses analytics projects
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
