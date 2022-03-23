@@ -5,4 +5,4 @@ description: Personal website that encompasses analytics projects
 
 This is the content I use in my CTBA course
 
-- [Matplotlib Graph Aesthetics](/Matplotlib Graphs/index.md)
+- [Matplotlib Graph Aesthetics](/MatplotlibGraphs/index.md)
