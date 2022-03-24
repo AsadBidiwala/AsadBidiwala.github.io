@@ -3,7 +3,7 @@ title: Asad Bidiwala's Website
 description: Personal website that encompasses analytics projects
 ---
 
-![My Picture](/pictures/Asad Bidiwala Profile Picture.jpg)
+![My Picture](/pictures/AsadB.jpg)
 
 This is the content I use in my CTBA course
 
