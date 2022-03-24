@@ -9,3 +9,5 @@ Here are some Matplotlib Graphs I used in my CTBA course
 
 Here is my Github Repository
 - [Matplotlib Repository](https://github.com/AsadBidiwala/AsadBidiwala.github.io/tree/main/MatplotlibGraphs)
+
+[Go Back to Main Page](https://asadbidiwala.github.io/)
